@@ -1,7 +1,17 @@
 <h1 align="center">Hi 👋, I'm Megha Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" src="https://dribbble.com/shots/15215756-Coding-Animation-Concept" />
+<img align="right" alt="coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif" />
+
+
+- 🔭 I’m currently working on **Track Back**
+
+- 🌱 I’m currently learning **React Native**
+
+- 💬 Ask me about **Android, MEARN**
+
 - 📫 How to reach me **m0606sharma@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
