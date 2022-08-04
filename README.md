@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Megha Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F4055494%2Fscreenshots%2F15215756%2Fmedia%2Fd2b66c4ca0192aa26d103448b3d1518b.gif&imgrefurl=https%3A%2F%2Fdribbble.com%2Fshots%2F15215756-Coding-Animation-Concept&tbnid=NUntO8FQoc-57M&vet=12ahUKEwixobbmuqz5AhUKk9gFHX-AACQQMygXegUIARC2Ag..i&docid=S2_fnYEU1a3BSM&w=800&h=600&q=animated%20coding%20gif&ved=2ahUKEwixobbmuqz5AhUKk9gFHX-AACQQMygXegUIARC2Ag" />
+<img align="right" alt="coding" src="https://dribbble.com/shots/15215756-Coding-Animation-Concept" />
 - 📫 How to reach me **m0606sharma@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
