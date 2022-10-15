@@ -3,11 +3,11 @@
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif" />
 
 
-- 🔭 I’m currently working on **Track Back**
+- 🔭 I’m currently working on **Admin Portal**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Js**
 
-- 💬 Ask me about **Android, MEARN**
+- 💬 Ask me about **Web, MEARN**
 
 - 📫 How to reach me **m0606sharma@gmail.com**
 
